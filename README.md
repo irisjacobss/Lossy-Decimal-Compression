@@ -1,5 +1,4 @@
 # Lossy-Decimal-Compression
-A Lossy Decimal Compression Algorithm for CSV files
 The Lossy Decimal Compression Algorithm takes as input the filename as well as the desired decimals for that CSV file. The algorithm will alter all floating-point numbers in the CSV file to the desired decimal length. It will save this new CSV file in the same file path as in which the code is run. Additionally, the code will mention which of the columns were altered as well as information on to what extent the file was compressed. 
 
 
